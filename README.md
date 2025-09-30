@@ -40,14 +40,10 @@ Here are some ideas to get you started:
 - 👀 C/C++: junior
 - 🎨 Graphic design: junior
 - 🖼️ Image manipulation: junior
-- 📷 Photography: junior
-- 🎬 Non-linear editing: junior
-- 📱 GUI: baby
-- 🍥 OS: Debian sid (unstable) w/ KDE Plasma
-- 💭 Pronouns: she/her
-- 📫 E-mail: [i@rong.moe](mailto:i@rong.moe)
-- 💬 Telegram: [@RongrongNyaa](https://t.me/RongrongNyaa)
-- 📣 Babel: `cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
+- 💭 Pronouns: he/him
+- 📫 E-mail: 
+- 💬 Linkedin:
+- 💬 Fun Fact: 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
