@@ -22,12 +22,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=uriel-v&column=-1" alt="Uriel's GitHub trophys">
-  -->
-  <!-- <img style="padding: 10px;" src="https://github-profile-trophy.vercel.app/?username=uriel-v&rank=-C,-?"> -->
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uriel-v&rank=-?" alt="Trophies"/>
-</p>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=uriel-v&rank=-?" alt="Trophies"/> -->
 </div>
 
 
