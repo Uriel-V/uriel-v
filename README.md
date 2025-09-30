@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 [//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating
 
-<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats">
+<!-- <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uriel-v)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🐍 Python: senior
 - 🦈 Docker: senior
