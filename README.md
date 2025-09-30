@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"> -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage" alt="Uriel's GitHub Stats"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage" alt="Uriel's GitHub Stats"> 
 
 - 🐍 Python: senior
 - 🦈 Docker: senior
