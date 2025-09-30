@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Uriel-V/uriel-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1" alt="Rongronggg9's GitHub trophy">
+</div>
+
+<hr>
+
+[//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating
+
+<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
+
+- 🐍 Python: senior
+- 🦈 Docker: senior
+- 📦 JavaScript: junior
+- 👀 C/C++: junior
+- 🎨 Graphic design: junior
+- 🖼️ Image manipulation: junior
+- 📷 Photography: junior
+- 🎬 Non-linear editing: junior
+- 📱 GUI: baby
+- 🍥 OS: Debian sid (unstable) w/ KDE Plasma
+- 💭 Pronouns: she/her
+- 📫 E-mail: [i@rong.moe](mailto:i@rong.moe)
+- 💬 Telegram: [@RongrongNyaa](https://t.me/RongrongNyaa)
+- 📣 Babel: `cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
