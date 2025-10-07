@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 </h1>
 
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=uriel-v&rank=-?" alt="Trophies"/> -->
-</div>
+<!-- </div> -->
 
 
-<hr>
+<hr> 
 
 [//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating
 
@@ -42,9 +42,11 @@ Here are some ideas to get you started:
 - 🎨 Graphic design: junior
 - 🖼️ Image manipulation: junior
 - 💭 Pronouns: he/him
-- 📫 E-mail: 
-- 💬 Linkedin:
-- 💬 Fun Fact: 
+- 📫 E-mail: theurielvit@gmail.com
+- 💬 Linkedin: [uriel-vitojiegbe](https://www.linkedin.com/in/uriel-vitojiegbe/)
+- 💬 Fun Fact: I love to bake!
+
+<hr> 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
