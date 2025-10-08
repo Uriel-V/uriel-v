@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🎓 First-generation Nigerian-American </li>
   <li>🚀 Passionate about AI, full-stack development, app development, GPU programming, and game development</li>
-  <li>👨‍💻 3x Hackathon winner</li>
+  <li>:shipit: 3x Hackathon winner</li>
   <li>💭 Pronouns: he/him</li>
   <li>📫 E-mail: <a href="mailto:theurielvit@gmail.com">theurielvit@gmail.com</a></li>
   <li>💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
