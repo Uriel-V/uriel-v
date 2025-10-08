@@ -30,7 +30,18 @@ Here are some ideas to get you started:
 
 [//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating
 
-<!-- <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"> -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=dark&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats">
 
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
