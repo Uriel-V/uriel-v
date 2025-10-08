@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <li>🚀 Passionate about AI, full-stack development, app development, GPU programming, and game development</li>
     <li>👨‍💻 3x Hackathon winner</li>
     <li>💭 Pronouns: he/him</li>
-    <li>📫 E-mail: <a href="mailto:theurielvit@gmail.com">Click me!</a> theurielvit@gmail.com</li>
+    <li>📫 E-mail: <a href="mailto:theurielvit@gmail.com">theurielvit@gmail.com</a></li>
     <li>💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
     <li>💻 Fun Fact: I love to bake!</li>
   </ul>
