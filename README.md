@@ -16,8 +16,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
+<h1 align="center"> :octocat:
+  Welcome to my Github page! :octocat:
 </h1>
 
 
@@ -37,18 +37,20 @@ Here are some ideas to get you started:
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
     <summary>
-      <h2><b>About me</b></h2>
+      <h2> About me</h2>
     </summary>
   </ul>
 </div>
 
-- 🎓 First-generation Nigerian-American and CS major at the University of Maryland   
-- 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development
-- 👨‍💻 3x Hackathon winner
-- 💭 Pronouns: he/him
-- 📫 E-mail: theurielvit@gmail.com
-- 💬 Linkedin: [Click me!](https://www.linkedin.com/in/uriel-vitojiegbe/)
-- 💻 Fun Fact: I love to bake!
+<ul>
+  <li>🎓 First-generation Nigerian-American </li>
+  <li>🚀 Passionate about AI, full-stack development, app development, GPU programming, and game development</li>
+  <li>👨‍💻 3x Hackathon winner</li>
+  <li>💭 Pronouns: he/him</li>
+  <li>📫 E-mail: <a href="mailto:theurielvit@gmail.com">theurielvit@gmail.com</a></li>
+  <li>💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
+  <li>💻 Fun Fact: I love to bake!</li>
+</ul>
   
   <picture align="right">
     <source align="right"
