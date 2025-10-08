@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-
-<h1 align="center"> :octocat:
-  Welcome to my Github page! :octocat:
-</h1>
+<h1 align="center"> 
+  Welcome to my Github page! 
+</h1>  
 
 
 <!-- <div align="center"> -->
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 
 <!-- <hr>  -->
 
-[//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating
 
 
 
@@ -54,11 +52,11 @@ Here are some ideas to get you started:
   
   <picture align="right">
     <source align="right"
-      srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=dark&custom_title=🧶%20Uriel%20is%20vibrating" 
+      srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=dark&custom_title=Uriel%27s%20GitHub%20Stats" 
       media="(prefers-color-scheme: dark)"
     />
     <source align="right"
-      srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=light&custom_title=🧶%20Uriel%20is%20vibrating" 
+      srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=light&custom_title=Uriel%27s%20GitHub%20Stats" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=light" />
