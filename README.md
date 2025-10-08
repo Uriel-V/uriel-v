@@ -49,18 +49,20 @@ Here are some ideas to get you started:
   <li>💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
   <li>💻 Fun Fact: I love to bake!</li>
 </ul>
-  
-  <picture align="right">
-    <source align="right"
+
+<div align="center">
+  <picture align="center">
+    <source align="center"
       srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=dark&custom_title=Uriel%27s%20GitHub%20Stats" 
       media="(prefers-color-scheme: dark)"
     />
-    <source align="right"
+    <source align="center"
       srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=light&custom_title=Uriel%27s%20GitHub%20Stats" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=light" />
   </picture>
+</div>
 <!-- <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
 </div> -->
