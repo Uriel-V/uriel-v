@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=dark&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" 
+    srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"" 
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -41,7 +41,13 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats">
+
+![Light Mode](https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true#gh-light-mode-only)
+![Dark Mode](https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating#gh-dark-mode-only)
+
+<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats">
+
+
 
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
