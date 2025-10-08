@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 </div>
   <ul>
     <li>🎓 First-generation Nigerian-American </li>
-    <li>🧑‍🎓 CS + ML major at the University of Maryland </li>
     <li>🚀 Passionate about AI, full-stack development, app development, GPU programming, and game development</li>
     <li>👨‍💻 3x Hackathon winner</li>
     <li>💭 Pronouns: he/him</li>
