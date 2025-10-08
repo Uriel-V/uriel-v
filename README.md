@@ -35,16 +35,14 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
 
-- 🐍 Python: senior
-- 🦈 Docker: senior
-- 📦 JavaScript: junior
-- 👀 C/C++: junior
-- 🎨 Graphic design: junior
-- 🖼️ Image manipulation: junior
+## About me!
+- 🎓 First-generation Nigerian-American and CS major at the University of Maryland   
+- 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development
+- 👨‍💻 3x Hackathon winner
 - 💭 Pronouns: he/him
 - 📫 E-mail: theurielvit@gmail.com
-- 💬 Linkedin: [uriel-vitojiegbe](https://www.linkedin.com/in/uriel-vitojiegbe/)
-- 💬 Fun Fact: I love to bake!
+- 💬 Linkedin: [Click me!](https://www.linkedin.com/in/uriel-vitojiegbe/)
+- 💻 Fun Fact: I love to bake!
 
 <hr> 
 
