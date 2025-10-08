@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- </div> -->
 
 
-<hr> 
+<!-- <hr>  -->
 
 [//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating
 
@@ -44,35 +44,17 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
 </div>
   <ul>
-    <li>• 🎓 First-generation Nigerian-American and CS major at the University of Maryland</li>
-    <li>• 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development</li>
-    <li>• 👨‍💻 3x Hackathon winner</li>
-    <li>• 💭 Pronouns: he/him</li>
-    <li>• 📫 E-mail: theurielvit@gmail.com</li>
-    <li>• 💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
-    <li>• 💻 Fun Fact: I love to bake!</li>
+    <li>🎓 First-generation Nigerian-American </li>
+    <li>CS + ML major at the University of Maryland </li>
+    <li>🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development</li>
+    <li>👨‍💻 3x Hackathon winner</li>
+    <li>💭 Pronouns: he/him</li>
+    <li>📫 E-mail: theurielvit@gmail.com</li>
+    <li>💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
+    <li>💻 Fun Fact: I love to bake!</li>
   </ul>
-  
-<div id="toc"> <!-- both work, toc or user-content-toc -->
-  <ul style="list-style: none;">
-    <summary>
-      <h2><b>About me!</b></h2>
-    </summary>
-  </ul>
-  <ul>
-    <li>• 🎓 First-generation Nigerian-American and CS major at the University of Maryland</li>
-    <li>• 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development</li>
-    <li>• 👨‍💻 3x Hackathon winner</li>
-    <li>• 💭 Pronouns: he/him</li>
-    <li>• 📫 E-mail: theurielvit@gmail.com</li>
-    <li>• 💬 Linkedin: [Click me!](https://www.linkedin.com/in/uriel-vitojiegbe/)</li>
-    <li>• 💻 Fun Fact: I love to bake!</li>
-  </ul>
-</div>
 
-
-
-<hr> 
+<!-- <hr>  -->
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
