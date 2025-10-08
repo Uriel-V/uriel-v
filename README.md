@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 </div>
   <ul>
     <li>🎓 First-generation Nigerian-American </li>
-    <li>CS + ML major at the University of Maryland </li>
-    <li>🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development</li>
+    <li>🧑‍🎓 CS + ML major at the University of Maryland </li>
+    <li>🚀 Passionate about AI, full-stack development, app development, GPU programming, and game development</li>
     <li>👨‍💻 3x Hackathon winner</li>
     <li>💭 Pronouns: he/him</li>
-    <li>📫 E-mail: theurielvit@gmail.com</li>
+    <li>📫 E-mail: <a href="mailto:theurielvit@gmail.com">Click me!</a> theurielvit@gmail.com</li>
     <li>💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
     <li>💻 Fun Fact: I love to bake!</li>
   </ul>
