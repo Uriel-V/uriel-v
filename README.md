@@ -32,17 +32,45 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"> -->
 
+<div id="toc"> <!-- both work, toc or user-content-toc -->
+  <ul style="list-style: none;">
+    <summary>
+      <h2><b>About me!</b></h2>
+    </summary>
+  </ul>
+</div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
+</div>
+  <ul>
+    <li>• 🎓 First-generation Nigerian-American and CS major at the University of Maryland</li>
+    <li>• 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development</li>
+    <li>• 👨‍💻 3x Hackathon winner</li>
+    <li>• 💭 Pronouns: he/him</li>
+    <li>• 📫 E-mail: theurielvit@gmail.com</li>
+    <li>• 💬 Linkedin: [Click me!] (https://www.linkedin.com/in/uriel-vitojiegbe/)</li>
+    <li>• 💻 Fun Fact: I love to bake!</li>
+  </ul>
+  
+<div id="toc"> <!-- both work, toc or user-content-toc -->
+  <ul style="list-style: none;">
+    <summary>
+      <h2><b>About me!</b></h2>
+    </summary>
+  </ul>
+  <ul>
+    <li>• 🎓 First-generation Nigerian-American and CS major at the University of Maryland</li>
+    <li>• 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development</li>
+    <li>• 👨‍💻 3x Hackathon winner</li>
+    <li>• 💭 Pronouns: he/him</li>
+    <li>• 📫 E-mail: theurielvit@gmail.com</li>
+    <li>• 💬 Linkedin: [Click me!](https://www.linkedin.com/in/uriel-vitojiegbe/)</li>
+    <li>• 💻 Fun Fact: I love to bake!</li>
+  </ul>
+</div>
 
-## About me!
-- 🎓 First-generation Nigerian-American and CS major at the University of Maryland   
-- 🚀 Passionate about AI, full-stack development, mobile app development, GPU programming, and game development
-- 👨‍💻 3x Hackathon winner
-- 💭 Pronouns: he/him
-- 📫 E-mail: theurielvit@gmail.com
-- 💬 Linkedin: [Click me!](https://www.linkedin.com/in/uriel-vitojiegbe/)
-- 💻 Fun Fact: I love to bake!
+
 
 <hr> 
 
