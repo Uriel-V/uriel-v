@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
     <summary>
-      <h2><b>About me!</b></h2>
+      <h2><b>About me</b></h2>
     </summary>
   </ul>
 </div>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <li>• 👨‍💻 3x Hackathon winner</li>
     <li>• 💭 Pronouns: he/him</li>
     <li>• 📫 E-mail: theurielvit@gmail.com</li>
-    <li>• 💬 Linkedin: [Click me!] (https://www.linkedin.com/in/uriel-vitojiegbe/)</li>
+    <li>• 💬 Linkedin: <a href="https://www.linkedin.com/in/uriel-vitojiegbe">Click me!</a> </li>
     <li>• 💻 Fun Fact: I love to bake!</li>
   </ul>
   
