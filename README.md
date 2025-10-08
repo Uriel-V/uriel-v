@@ -30,22 +30,11 @@ Here are some ideas to get you started:
 
 [//]: https://github-readme-stats.vercel.app/api?username=uriel-v&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=dark&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
-<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats">
 
-![Light Mode](https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true#light)
-![Dark Mode](https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=dark&custom_title=🧶%20Uriel%20is%20vibrating#dark)
+<!-- <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&hide=stars,contribs&show=reviews&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Uriel%20is%20vibrating" alt="Uriel's GitHub Stats"> -->
+
+
 
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
@@ -55,9 +44,23 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
+<div align= "right"> 
+  <picture>
+    <source
+      srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=dark&custom_title=🧶%20Uriel%20is%20vibrating" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-rongronggg9.vercel.app/api?username=uriel-v&include_all_commits=true&show=reviews&hide=stars&count_private=true&show_icons=true&theme=light&custom_title=🧶%20Uriel%20is%20vibrating" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
 </div>
+
+<!-- <div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=uriel-v&show_icons=true&theme=radical&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true" alt="Uriel's GitHub Stats"> 
+</div> -->
   <ul>
     <li>🎓 First-generation Nigerian-American </li>
     <li>🚀 Passionate about AI, full-stack development, app development, GPU programming, and game development</li>
